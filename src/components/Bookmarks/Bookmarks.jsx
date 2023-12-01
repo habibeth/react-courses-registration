@@ -1,5 +1,5 @@
 import { Toaster } from "react-hot-toast";
-
+import PropTypes from 'prop-types'
 export default function Bookmarks({totalCredit, coursePrice, courseName, totalHour}) {
     
     return (
@@ -19,3 +19,9 @@ export default function Bookmarks({totalCredit, coursePrice, courseName, totalHo
     )
 }
 
+Bookmarks.propTypes = {
+    totalCredit: PropTypes.number.isRequired,
+    coursePrice: PropTypes.number.isRequired,
+    courseName: PropTypes.array.isRequired,
+    totalHour: PropTypes.number.isRequired,
+}

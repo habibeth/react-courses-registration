@@ -1,0 +1,74 @@
+[
+    {
+      "id": "C111",
+      "title": "Introduction to C Programming",
+      "description": "Learn the basics of C programming language, including syntax, data types, and control structures.",
+      "price": 79.99,
+      "duration": 6,
+      "img": "https://i.ibb.co/TbVpLcr/2088c50ea5475adb01d053258afc6ebb.png"
+    },
+    {
+      "id": "C222",
+      "title": "Introduction to Algorithms",
+      "description": "Explore fundamental algorithms and data structures, with an emphasis on problem-solving techniques.",
+      "price": 89.99,
+      "duration": 8,
+      "img": "https://i.ibb.co/Yhyk5Qs/4244893c888c36dde505b247de2b7661.jpg"
+    },
+    {
+      "id": "C333",
+      "title": "Introduction to C++ for DSA",
+      "description": "Understand C++ programming language and its application in implementing data structures and algorithms.",
+      "price": 99.99,
+      "duration": 10,
+      "img": "https://i.ibb.co/4Y4pkwK/b1c259ea0cb13fb1c445e27de4ead850.png"
+    },
+    {
+      "id": "C444",
+      "title": "Basic Data Structures",
+      "description": "Learn essential data structures such as arrays, linked lists, stacks, and queues. programming language.",
+      "price": 69.99,
+      "duration": 5,
+      "img": "https://i.ibb.co/6HC08Lm/9fa183e7a46e3e4a803be82d14fb07ee.jpg"
+    },
+    {
+      "id": "C555",
+      "title": "Introduction to OOP Python",
+      "description": "Explore the principles of Object-Oriented Programming (OOP) using the Python programming language.",
+      "price": 119.99,
+      "duration": 7,
+      "img": "https://i.ibb.co/3v8wMms/281d456b4d6bbf59c657fa5d0e5daf80.png"
+    },
+    {
+      "id": "C666",
+      "title": "Software Engineering",
+      "description": "Gain insights into software development methodologies, project management, and quality assurance.",
+      "price": 149.99,
+      "duration": 12,
+      "img": "https://i.ibb.co/Wxswn2T/0f796aa5010a50065c5e01a5d319ba74.jpg"
+    },
+    {
+      "id": "C777",
+      "title": "AWS, Cloud Computing",
+      "description": "Introduction to Amazon Web Services (AWS) and cloud computing services. programming language.",
+      "price": 169.99,
+      "duration": 8,
+      "img": "https://i.ibb.co/9yzxTpF/e7ef809d01cca83f127b47d5ab4d5aca.jpg"
+    },
+    {
+      "id": "C999",
+      "title": "Database (MySQL)",
+      "description": "Learn the basics of database management using MySQL, including database design and SQL queries.",
+      "price": 109.99,
+      "duration": 7,
+      "img": "https://i.ibb.co/Dkc8H5c/2561b8d6dc9e8924547abe117b30a4d1.jpg"
+    },
+    {
+      "id": "C1010",
+      "title": "Problem-Solving Part",
+      "description": "Develop problem-solving skills and strategies for tackling complex programming challenges.",
+      "price": 79.99,
+      "duration": 4,
+      "img": "https://i.ibb.co/1bJxSWk/2ac6141c4e745bd1260eb31157cbfa34.png"
+    }
+  ]
